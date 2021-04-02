@@ -2,6 +2,17 @@
 
 Here [Student Performance Data Set](https://www.kaggle.com/larsen0966/student-performance-data-set) dataset by [Data-Science Sean](https://www.kaggle.com/larsen0966) is used to perform `EDA` and create a `machine learning model` that can predict student's final grades i.e. Tthe goal is to predict `G3` using `G1` and `G2`.
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Findings](#findings)
+- [Model performance](#model-performance)
+- [License](#license)
+
+## Getting started
+
+The [notebook](https://www.kaggle.com/akashsdas/predict-students-grades) is available on Kaggle to work in the same environment where this notebook was created i.e. use the same version packages used, etc...
+
 ## Findings
 
 ![average-grades](./docs/imgs/average-grades.png)
@@ -35,3 +46,7 @@ Here [Student Performance Data Set](https://www.kaggle.com/larsen0966/student-pe
 **Actual Vs Predicted values**
 
 ![actual-vs-prediction](./docs/imgs/actual-vs-prediction.png)
+
+## License
+
+[APACHE LICENSE, VERSION 2.0](./LICENSE)
